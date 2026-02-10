@@ -1,0 +1,10 @@
+# 가상환경 폴더 제외 (st 폴더)
+sj/
+venv/
+env/
+
+# 파이썬 컴파일 파일 제외
+__pycache__/
+*.pyc
+
+.vscode/
